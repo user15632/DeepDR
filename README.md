@@ -24,7 +24,7 @@ results: Contains scripts and results for benchmark experiments.
 
 ## Benchmark
 
-The benchmark in the paper used the DeepDR v0.1, it can be downloaded from https://drive.google.com/file/d/1usL_HFmCfndN4hkHq97CR4Lj1JaxiMm_/view?usp=sharing (see deepdr/v0.1/download path.txt).
+The benchmark in the paper used the DeepDR v0.1, it can be downloaded from the link in deepdr/v0.1/download path.txt.
 
 Run the following command in the result/datasets/ directory to split dataset:
 
@@ -34,7 +34,7 @@ python -m get_data
 
 e.g. Run the following command in the result/tuning_CCLE_cell_out/ directory for model training and validation. 
 Make sure the pkl files generated in the previous step are in the same path. 
-You may need to download and unzip the file from https://drive.google.com/file/d/1iWPWElWHatE6ZR2vothSo6ZgeTpkgwz6/view?usp=drive_link (see additional/download path.txt), and place them under the same path:
+You may need to download and unzip the file from the link in additional/download path.txt, and place them under the same path:
 
 ```
 python -m tuning_CCLE_cell_out_0_0
