@@ -2,7 +2,7 @@
 
 This repository is the official implementation.
 
-## Install DeepDR
+## Install
 
 ```
 pip install deepdr -i https://pypi.org/simple
