@@ -8,6 +8,9 @@ This repository is the official implementation.
 pip install deepdr -i https://pypi.org/simple
 ```
 
+## Document
+See https://deepdr.readthedocs.io/en/latest/.
+
 ## Content
 
 additional: Contains the data and model you might need when using DeepDR.
