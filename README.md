@@ -5,12 +5,8 @@ This repository is the official implementation.
 ## Install DeepDR
 
 ```
-pip install DeepDR -i https://pypi.org/simple
+pip install deepdr -i https://pypi.org/simple
 ```
-
-## Note
-
-Due to the PyPI upload file size limit, in the current version, DAE_ALL.pt is not integrated in the library. If you need, please download from [this link](https://huggingface.co/spaces/user15632/DeepDR/blob/main/DeepDR/DefaultData/DAE_ALL.pt).
 
 ## Content
 
