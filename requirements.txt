@@ -1,0 +1,10 @@
+joblib
+rdkit
+openpyxl
+pubchempy
+wandb
+torch_geometric>=2.0.3
+torch_scatter
+torch_sparse
+torch_cluster
+torch_spline_conv
