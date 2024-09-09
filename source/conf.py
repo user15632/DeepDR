@@ -7,8 +7,8 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'DeepDR'
-copyright = '2024, Jiang Zhengxiang et al'
-author = 'Jiang Zhengxiang'
+copyright = '2024, Zhengxiang Jiang et al'
+author = 'Zhengxiang Jiang'
 release = 'v1.0.1'
 
 # -- General configuration ---------------------------------------------------
