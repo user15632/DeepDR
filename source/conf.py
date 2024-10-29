@@ -9,7 +9,7 @@
 project = 'DeepDR'
 copyright = '2024, Zhengxiang Jiang et al'
 author = 'Zhengxiang Jiang'
-release = 'v1.0.1'
+release = 'v2.0.0'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
