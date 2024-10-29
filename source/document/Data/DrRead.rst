@@ -1,7 +1,7 @@
 Data.DrRead
 ===========================
 
-`Click here </en/latest/document/Data/DrReadCode.html>`_ to view source code.
+`Click here <document/Data/DrReadCode.html>`_ to view source code.
 
 
 .. code-block:: python
