@@ -25,6 +25,7 @@ Overview of DeepDR library. **A** The drug and cell are processed through featur
    :maxdepth: 1
    :caption: Tutorials
 
+   document/Install
    document/Tutorials0
    document/Tutorials1
    document/Tutorials2
