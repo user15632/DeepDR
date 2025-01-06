@@ -12,7 +12,7 @@ Installation of DeepDR involves simply typing as follows:
 
 Dependency libraries such as Pytorch and PyG will be installed automatically.
 
-If you have problems with usage, try using the recommended Python, Pytorch, and PyG versions as follows:
+If you have problems with usage, try using the recommended Pytorch and PyG versions as follows:
 
 .. code-block:: python
 
