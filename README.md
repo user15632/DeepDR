@@ -8,7 +8,7 @@ This repository is the official implementation.
 pip install deepdr -i https://pypi.org/simple
 ```
 
-If you have problems with installation or utilization, try using the recommended python and pytorch versions as follows:
+If you have problems with utilization, try using the recommended python and pytorch versions as follows:
 
 ```
 conda create -n deepdr python=3.7.11
